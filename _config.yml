@@ -1,0 +1,10 @@
+markdown: kramdown
+permalink: /:title/
+url: http://blog.wangmingkuo.com
+highlighter: rouge
+name: Wangmk 
+description: Wangmk | 2019, To Be A Better one 
+author: Wangmk 
+duoshuo: 汪明阔 
+safe: true
+paginate: 100
